@@ -1,6 +1,6 @@
 {
   "name": "bower-sandox",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": ["./js/main.js", "./css/main.css"],
   "dependencies": {
     "jquery": "~1.8.1"
